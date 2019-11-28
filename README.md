@@ -1,2 +1,2 @@
-# distributed-efficient-paths
+# distributed-vectoring-protocol
 A C++ implementation.
